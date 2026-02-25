@@ -5,7 +5,7 @@ import processing.core.PApplet;
 /**
  * Audio-reactive flow field: particles steered by Perlin noise,
  * modulated in real time by microphone frequency bands.
- *
+ * <p>
  * Bass warps the field, mids drive speed and warmth, treble spawns bursts.
  * Color palette sweeps blue→purple→red→orange as energy rises.
  */
